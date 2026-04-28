@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello, World!
 
-<!--
-**giu8550/giu8550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- # 👩🏻‍💻 Giulia Fernanda
 
-Here are some ideas to get you started:
+**`Desenvolvedora FullStack Junior`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sou Giulia Fernanda, Full Stack Developer focada em construir aplicações modernas com experiência de usuário profissional e arquitetura bem estruturada.
+
+🚀 Sobre mim
+
+- 💼 Desenvolvendo projetos próprios com foco em sistemas reais
+- 📚 Evoluindo em TypeScript, React e Next.js
+- 🧠 Interesse em engenharia de software e boas práticas
+- 🎯 Buscando oportunidade como desenvolvedora Full Stack
+
+---
+## 🤖 Linguagens e Tecnologias
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mysql,php,java,cs,git,python,delphi,nodejs,firebase)
+
 -->
