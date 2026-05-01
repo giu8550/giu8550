@@ -1,4 +1,4 @@
-<!--## 👩🏻‍💻 Giulia Fernanda
+## 👩🏻‍💻 Giulia Fernanda
 
 **`Desenvolvedora FullStack Junior`**
 
@@ -11,28 +11,17 @@ Sou Giulia Fernanda, Full Stack Developer focada em construir aplicações moder
 - 🧠 Interesse em engenharia de software e boas práticas
 - 🎯 Buscando oportunidade como desenvolvedora Full Stack
 
----
-## 🤖 Linguagens e Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mysql,php,java,cs,git,python,delphi,nodejs,firebase)
+## 🤖 My Stack
 
-### 📊 Estatísticas
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,mysql,php,java,cs,git,python,nodejs,firebase&size=40&perline=9)
+<br clear="both">
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## Connect with me!
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
--->
+<div>
+  <a href="https://www.linkedin.com/in/giulia-fernanda-7a3a14262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatolovethais62@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:giuliawesk@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/272048956370845696" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
